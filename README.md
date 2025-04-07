@@ -16,10 +16,7 @@ Welcome to our project! This repo contains `DA_Project_Group3.ipynb`, a Jupyter 
 5. Open `DA_Project_Group3.ipynb` in Jupyter and run all cells.
 
 ## Dataset
-- Requires `rta_data.csv` (not included). Add it to the repo directory or update the file path in the code.
-
-## Contact
-Questions? Email us at [your-email@example.com].
+- Requires `rta_data.csv`. Add it to the repo directory or update the file path in the code.
 
 ## License
-MIT License - see `LICENSE.md` (if added).
+
