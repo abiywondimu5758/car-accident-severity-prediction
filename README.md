@@ -9,7 +9,7 @@ Welcome to our project! This repo contains `DA_Project_Group3.ipynb`, a Jupyter 
 - **Models:** Trains and evaluates K-Nearest Neighbors (KNN), Naïve Bayes, and Neural Networks. KNN performs best with 0.64 accuracy.
 
 ## How to Run
-1. Clone this repo: `git clone <repo-url>`.
+1. Clone this repo: `git clone [<repo-url>](https://github.com/abiywondimu5758/car-accident-severity-prediction.git)`.
 2. Install Python 3.x and Jupyter Notebook.
 3. Install dependencies: `pip install -r requirements.txt` (or manually install `pandas`, `numpy`, `sklearn`, `tensorflow`, `seaborn`, `matplotlib`).
 4. Place `rta_data.csv` in the same folder as the notebook.
